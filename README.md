@@ -25,6 +25,21 @@ verifica a quantidade de acertos!!!
 | imagem 1     | imagem 2        |
 
 
+### codigo principal
+```js:
+function verificaAcertos() {
+  let cont = 0;
+  numDig.forEach(function (valor, index) {
+    if (numSort.includes(valor)) {
+      cont = cont + 1;
+    }
+  });
+  document.getElementById("total").innerText = cont;
+}
+```
+
+
+
 ### Comandos Git
 
 comando para cadastra seu user em um computador
