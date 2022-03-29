@@ -25,3 +25,10 @@ verifica a quantidade de acertos!!!
 | imagem 1     | imagem 2        |
 
 
+### Comandos Git
+
+comando para cadastra seu user em um computador
+```
+git config --global user.name "user"
+git config --global user.email "email"
+```
