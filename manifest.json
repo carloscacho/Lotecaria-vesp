@@ -9,7 +9,7 @@
 	"dir": "ltr",
 	"display": "standalone",
 	"orientation": "landscape",
-	"prefer_related_applications": false,
+	"prefer_related_applications": true,
 	"icons": [
 		{
 			"src": "img/windows11/SmallTile.scale-100.png",
